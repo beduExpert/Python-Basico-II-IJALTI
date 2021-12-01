@@ -1,4 +1,4 @@
-# Sesión 07: Flask
+# Sesión 02: Flask
 
 ## :dart: Objetivos
 
