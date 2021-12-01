@@ -1,6 +1,6 @@
-# Sesión 01 - Modelado y arquitectura de un proyecto de Backend 🕹
+# Sesión 04 - Modelado y arquitectura de un proyecto de Backend
 
-🎯 **Objetivo:**
+**Objetivo:**
 
 - Entender las etapas de planificación y diseño de un proyecto de software
 - Definir el modelado y la arquitectura del proyecto
