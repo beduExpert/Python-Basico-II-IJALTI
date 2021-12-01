@@ -1,4 +1,4 @@
-# Sesión 06: Manipulación de archivos, JSON, CSV y excepciones
+# Sesión 01: Manipulación de archivos, JSON, CSV y excepciones
 
 ## :dart: Objetivos
 
