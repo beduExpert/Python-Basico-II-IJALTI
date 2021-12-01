@@ -18,7 +18,7 @@ Al finalizar el módulo podrás distinguir e identificar los ciclos de control. 
  - [`Sesión 1`](Sesion-01): Manipulación de archivos, JSON, CSV
  - [`Sesión 2`](Sesion-02): Flask
  - [`Sesión 3`](Sesion-03): Testing
- - [`Sesión 4`](Sesion-03): Arquitectura de software
+ - [`Sesión 4`](Sesion-04): Arquitectura de software
 
 
 
